@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Search laptop","FAILURE","2021-05-10T23:03:50.496146+03:00[Europe/Bucharest]","0.0","64.98"
+"Search by keyword story","Filter laptops","FAILURE","2021-05-10T23:03:51.2562+03:00[Europe/Bucharest]","0.0","42.71"

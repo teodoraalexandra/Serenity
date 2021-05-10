@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="oananutu.features.search.SearchByKeywordStory" skipped="0" tests="4" time="107.7" timestamp="2021-05-10 11:03:50"><testcase classname="oananutu.features.search.SearchByKeywordStory" name="Search laptop"><failure message="&#10;Expected: a collection containing a string containing &quot;title&quot;&#10;     but: was &quot;Tricou personalizat &quot;Mami, 1 anisor, Hello Kitty&quot;, alb, marimea S, dama&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"</failure><system-err>
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"
+oananutu@1.0-SNAPSHOT/oananutu.steps.serenity.EndUserSteps.should_see_articles(EndUserSteps.java:31)
+oananutu@1.0-SNAPSHOT/oananutu.features.search.SearchByKeywordStory.search_laptop(SearchByKeywordStory.java:38)
+</system-err></testcase><testcase classname="oananutu.features.search.SearchByKeywordStory" name="Filter laptops"><failure message="&#10;Expected: a collection containing a string containing &quot;title&quot;&#10;     but: was &quot;Tricou personalizat &quot;Mami, 1 anisor, Hello Kitty&quot;, alb, marimea S, dama&quot;" type="java.lang.AssertionError">
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"</failure><system-err>
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"
+oananutu@1.0-SNAPSHOT/oananutu.steps.serenity.EndUserSteps.should_see_articles(EndUserSteps.java:31)
+oananutu@1.0-SNAPSHOT/oananutu.features.search.SearchByKeywordStory.filter_laptops(SearchByKeywordStory.java:46)
+</system-err></testcase></testsuite>

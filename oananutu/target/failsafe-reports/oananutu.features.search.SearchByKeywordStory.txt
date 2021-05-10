@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: oananutu.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 126.67 s <<< FAILURE! - in oananutu.features.search.SearchByKeywordStory
+oananutu.features.search.SearchByKeywordStory.search_laptop[1]  Time elapsed: 32.11 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"
+	at oananutu@1.0-SNAPSHOT/oananutu.features.search.SearchByKeywordStory.search_laptop(SearchByKeywordStory.java:38)
+
+oananutu.features.search.SearchByKeywordStory.filter_laptops[1]  Time elapsed: 18.717 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a collection containing a string containing "title"
+     but: was "Tricou personalizat "Mami, 1 anisor, Hello Kitty", alb, marimea S, dama"
+	at oananutu@1.0-SNAPSHOT/oananutu.features.search.SearchByKeywordStory.filter_laptops(SearchByKeywordStory.java:46)
+
